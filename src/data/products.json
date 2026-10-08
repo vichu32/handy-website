@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "title": "Handy Signature Solution Bag",
+      "handle": "handy-signature-solution-bag",
+      "body_html": "<p>Our flagship maroon custom-printed paper bag crafted as the smart packaging solution for modern brands and retailers. Built with reinforced fold-over tops, durable paper handles, and crisp precision screen printing.</p><ul><li>Premium high-GSM virgin kraft paper</li><li>Comfortable flat paper carry handles</li><li>Custom color matching & logo stamping</li><li>Ideal for boutiques, gift stores & premium retail</li></ul>",
+      "tags": ["Signature", "Custom Print", "Boutique"],
+      "variants": [
+        { "id": 1011, "title": "Maroon & Gold", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10101, "src": "/products/shopping_bag_printed_alt.jpg" }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Premium Luxury Retail Bag",
+      "handle": "premium-luxury-retail-bag",
+      "body_html": "<p>Sleek matte monochrome paper bag manufactured with solid black face prints, crisp white gussets, and twisted cord handles. Engineered for premium apparel and lifestyle retail.</p><ul><li>Solid coverage matte finish</li><li>Durable twisted cord rope handles</li><li>Deep side gussets for high volume capacity</li><li>FSC-certified eco-friendly paper</li></ul>",
+      "tags": ["Luxury", "Retail", "Apparel"],
+      "variants": [
+        { "id": 1021, "title": "Black & White", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10201, "src": "/products/white_kraft_printed_bags.jpeg" }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Designer White Kraft Bag",
+      "handle": "designer-white-kraft-bag",
+      "body_html": "<p>Minimalist white kraft paper bag featuring precision fine-line print, black side panels with icons, and twisted loop handles. A benchmark in bespoke optical and luxury accessory packaging.</p><ul><li>Bleached white virgin kraft substrate</li><li>Contrast high-density black print</li><li>Strong twisted paper loop handles</li><li>Ideal for eyewear, perfumes, cosmetics & jewelry</li></ul>",
+      "tags": ["White Kraft", "Designer", "Eyewear"],
+      "variants": [
+        { "id": 1031, "title": "White & Black", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10301, "src": "/products/white_kraft_printed_bags.jpg" },
+        { "id": 10302, "src": "/products/img_9293.jpg" }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Heavy-Duty Kraft Paper Bag",
+      "handle": "heavy-duty-kraft-paper-bag",
+      "body_html": "<p>Rugged, heavy-weight natural brown kraft paper carrier bag with distinctive ink-splash artwork. Designed for garment stores, export houses, and high-load shopping.</p><ul><li>High-burst factor natural brown kraft</li><li>Twisted paper handles with reinforced inner glue</li><li>High weight capacity (up to 7 kg)</li><li>100% biodegradable and recyclable</li></ul>",
+      "tags": ["Brown Kraft", "Garment", "Heavy Duty"],
+      "variants": [
+        { "id": 1041, "title": "Natural Kraft", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10401, "src": "/products/printed_bags.jpg" },
+        { "id": 10402, "src": "/products/img_9286.jpg" }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Executive Corporate Branded Bag",
+      "handle": "executive-corporate-branded-bag",
+      "body_html": "<p>Executive corporate paper bag produced for corporate giveaways, luxury showrooms, and client delivery kits. Elegant, understated, and aligned with world-class branding standards.</p><ul><li>Premium smooth kraft texture</li><li>Crisp deep green corporate typography</li><li>Reinforced base for document and brochure weight</li><li>Custom size formats available</li></ul>",
+      "tags": ["Corporate", "Executive", "Branded"],
+      "variants": [
+        { "id": 1051, "title": "Kraft Green", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10501, "src": "/products/img_9289.jpg" }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Institutional Event Paper Bag",
+      "handle": "institutional-event-paper-bag",
+      "body_html": "<p>Eco-conscious event and institutional carry bag tailored for academic institutions, seminars, convocations, and executive summits.</p><ul><li>Eco-friendly biodegradable kraft paper</li><li>Precision emblem / logo printing</li><li>Sturdy handles for kit and document holding</li><li>Sustainable bulk production</li></ul>",
+      "tags": ["Institutional", "Conferences", "Seminars"],
+      "variants": [
+        { "id": 1061, "title": "Natural Brown", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10601, "src": "/products/img_9291.jpg" }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Square Bottom Cake & Bakery Bag",
+      "handle": "cake-bakery-paper-bag",
+      "body_html": "<p>Engineered with an ultra-wide flat square bottom specifically designed to carry cake boxes, pastry packages, and bakery delicacies without tilting.</p><ul><li>Wide flat base prevents box tipping</li><li>Grease-resistant and food-grade safe</li><li>Comfortable twisted loop paper handles</li><li>Ideal for patisseries, bakers & cloud kitchens</li></ul>",
+      "tags": ["Bakery", "Cake Box", "Wide Base"],
+      "variants": [
+        { "id": 1071, "title": "Bakery Kraft", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10701, "src": "/products/cake_bag.jpg" }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "White Duplex Plain / Custom Bag",
+      "handle": "white-duplex-bag",
+      "body_html": "<p>Pristine white duplex board bag with rope handles. A versatile canvas for clean minimalist aesthetics, hot foil stamping, or embossed brand signatures.</p><ul><li>Thick duplex board construction</li><li>Smooth laminated or matte texture</li><li>Soft cotton / polyester rope handles with eyelets</li><li>Premium rigid silhouette</li></ul>",
+      "tags": ["Duplex", "Minimalist", "Customizable"],
+      "variants": [
+        { "id": 1081, "title": "Pristine White", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10801, "src": "/products/white_duplex_bag_plain.jpeg" }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Monochrome Boutique Shopping Bags",
+      "handle": "monochrome-boutique-shopping-bags",
+      "body_html": "<p>Contemporary flat-handle boutique shopping bags in contrasting monochrome black and white. Designed for apparel flagships, cosmetics, and modern concept stores.</p><ul><li>Comfortable wide flat paper tape handles</li><li>Crisp geometric structured shape</li><li>High GSM tear-resistant paper</li><li>Recyclable and compostable</li></ul>",
+      "tags": ["Boutique", "Flat Handle", "Monochrome"],
+      "variants": [
+        { "id": 1091, "title": "Monochrome Set", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 10901, "src": "/products/shopping_bag_printed.jpg" }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Shawarma Box",
+      "handle": "shawarma-box",
+      "body_html": "<p>Premium food-grade greaseproof Shawarma Box packaging designed for quick-service restaurants, Mediterranean eateries, and cloud kitchens. Engineered with secure easy-lock tabs, oil-resistant coating, and vibrant custom brand printing.</p><ul><li>100% food-grade certified virgin board</li><li>Grease and moisture resistant inner lining</li><li>Easy fold & lock closure for fast packing</li><li>Custom full-color branding and logo printing</li></ul>",
+      "tags": ["Food Box", "Shawarma Box", "Takeaway", "Greaseproof"],
+      "variants": [
+        { "id": 1101, "title": "Custom Printed Box", "price": "Enquire", "available": true }
+      ],
+      "images": [
+        { "id": 11001, "src": "/products/shawarma_box.jpg" }
+      ]
+    }
+  ]
+}
